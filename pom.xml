@@ -9,8 +9,7 @@
 		<maven.compiler.target>8</maven.compiler.target>
   </properties>
   <modules>
-  	<module>modulo-001</module>
-  	<module>modulo-002</module>
-  	<module>modulo-003</module>
+
+  <module>mod-001</module>
   </modules>
 </project>
