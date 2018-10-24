@@ -12,5 +12,6 @@
 
   <module>mod-001</module>
   <module>mod-002</module>
+  <module>mod-003</module>
   </modules>
 </project>
